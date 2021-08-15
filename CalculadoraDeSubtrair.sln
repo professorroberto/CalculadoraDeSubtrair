@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDeSomar", "CalculadoraDeSomar\CalculadoraDeSomar.csproj", "{5298F56E-6D04-4D92-91DF-BA0B2FE04D95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDeSubtrair", "CalculadoraDeSubtrair\CalculadoraDeSubtrair.csproj", "{5298F56E-6D04-4D92-91DF-BA0B2FE04D95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

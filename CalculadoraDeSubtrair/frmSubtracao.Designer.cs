@@ -1,6 +1,6 @@
 ﻿namespace CalculadoraDeSomar
 {
-    partial class frmAdicao
+    partial class frmSubtracao
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // frmAdicao
+            // frmSubtracao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "frmAdicao";
-            this.Text = "Adição";
+            this.Name = "frmSubtracao";
+            this.Text = "Subtração";
             this.ResumeLayout(false);
 
         }

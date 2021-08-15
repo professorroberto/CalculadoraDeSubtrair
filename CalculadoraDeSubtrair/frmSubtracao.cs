@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace CalculadoraDeSomar
 {
-    public partial class frmAdicao : Form
+    public partial class frmSubtracao : Form
     {
-        public frmAdicao()
+        public frmSubtracao()
         {
             InitializeComponent();
         }

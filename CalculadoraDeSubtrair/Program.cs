@@ -15,7 +15,7 @@ namespace CalculadoraDeSomar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAdicao());
+            Application.Run(new frmSubtracao());
         }
     }
 }
