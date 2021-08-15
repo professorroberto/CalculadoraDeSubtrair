@@ -1,4 +1,4 @@
-﻿namespace CalculadoraDeSomar
+﻿namespace CalculadoraDeSubtrair
 {
     partial class frmSubtracao
     {
