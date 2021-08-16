@@ -55,6 +55,7 @@
             this.btnSubtrair.TabIndex = 10;
             this.btnSubtrair.Text = "-";
             this.btnSubtrair.UseVisualStyleBackColor = true;
+            this.btnSubtrair.Click += new System.EventHandler(this.btnSubtrair_Click);
             // 
             // txtSub2
             // 
